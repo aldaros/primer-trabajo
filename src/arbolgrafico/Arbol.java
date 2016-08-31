@@ -14,7 +14,7 @@ public class Arbol {
     private Nodo raiz;
     int cant;
     int altura;
-
+int tard;
    
 
     public Nodo getRaiz() {
